@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fVNAKaLWJBwSShFKwVH4giJYgZuy7A5jFHul5KeYYKpSJuwTa7XkwUy5Eu2I8Nvo4EBkKYJRBJ/lXq1hn8C4GQ==",
+  "dgSpecHash": "5YktxnsGzfZfKSQJwWZOpbuMRE4vs34sDNrcmdYeoYo7xxwg7ukQuJMv1fq5KW/RbAe8PS44PA0aWZW3nRx4Mg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\E001150\\ChatGptApiIntegration\\ChatGptApiIntegration.csproj",
+  "projectFilePath": "C:\\Users\\E001150\\ChatGptApiIntegration\\ChatGptApiIntegration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\E001150\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\E001150\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",

@@ -17,3 +17,6 @@ C:\Users\E001150\ChatGptApiIntegration\obj\Debug\net7.0\refint\ChatGptApiIntegra
 C:\Users\E001150\ChatGptApiIntegration\obj\Debug\net7.0\ChatGptApiIntegration.pdb
 C:\Users\E001150\ChatGptApiIntegration\obj\Debug\net7.0\ChatGptApiIntegration.genruntimeconfig.cache
 C:\Users\E001150\ChatGptApiIntegration\obj\Debug\net7.0\ref\ChatGptApiIntegration.dll
+C:\Users\E001150\ChatGptApiIntegration\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\E001150\ChatGptApiIntegration\bin\Debug\net7.0\OpenAI-DotNet.dll
+C:\Users\E001150\ChatGptApiIntegration\bin\Debug\net7.0\TextCopy.dll

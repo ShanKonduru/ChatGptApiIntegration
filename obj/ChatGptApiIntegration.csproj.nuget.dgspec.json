@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\E001150\\ChatGptApiIntegration\\ChatGptApiIntegration.csproj": {}
+    "C:\\Users\\E001150\\ChatGptApiIntegration\\ChatGptApiIntegration.csproj": {}
   },
   "projects": {
-    "c:\\Users\\E001150\\ChatGptApiIntegration\\ChatGptApiIntegration.csproj": {
+    "C:\\Users\\E001150\\ChatGptApiIntegration\\ChatGptApiIntegration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\E001150\\ChatGptApiIntegration\\ChatGptApiIntegration.csproj",
+        "projectUniqueName": "C:\\Users\\E001150\\ChatGptApiIntegration\\ChatGptApiIntegration.csproj",
         "projectName": "ChatGptApiIntegration",
-        "projectPath": "c:\\Users\\E001150\\ChatGptApiIntegration\\ChatGptApiIntegration.csproj",
+        "projectPath": "C:\\Users\\E001150\\ChatGptApiIntegration\\ChatGptApiIntegration.csproj",
         "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\E001150\\ChatGptApiIntegration\\obj\\",
+        "outputPath": "C:\\Users\\E001150\\ChatGptApiIntegration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
