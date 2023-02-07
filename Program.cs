@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿/*
+using System.Text;
 
 if (args.Length > 0) {
     HttpClient client = new HttpClient ();
@@ -13,3 +14,4 @@ if (args.Length > 0) {
 } else {
     Console.WriteLine ("need at least one question to be asked");
 }
+*/
