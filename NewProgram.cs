@@ -10,17 +10,17 @@ namespace OpenAI_ChatGPT_Integration {
             Console.WriteLine ("Enter your text:");
             var inputText = Console.ReadLine ();
 
-            // Replace the API key with your own API key
-            var masterApiKey = "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";
-
-            var openAIApiKey = new CreateOpenAIApiKey(masterApiKey);
-            var apiKey = openAIApiKey.CreateAPIKey("MyAPIKey", "all", DateTime.Parse("2024-01-01"));
-            Console.WriteLine("API Key: " + apiKey);
-
             // Define the API endpoint
             // var apiEndpoint = "https://api.openai.com/v1/engines/text-davinci-002/completions";
             // var apiEndpoint = "https://api.openai.com/v1/completions";
             var apiEndpoint = "https://api.openai.com/v1/engines/text-davinci-002/completions";
+
+            // Replace the API key with your own API key
+            var masterApiKey = "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";
+
+            var openAIApiKey = new CreateOpenAIApiKey (masterApiKey, apiEndpoint);
+            var apiKey = openAIApiKey.CreateAPIKey ("MyAPIKey", "all", DateTime.Parse ("2024-01-01"));
+            Console.WriteLine ("API Key: " + apiKey);
 
             // Define the request body
             var requestBody = new {

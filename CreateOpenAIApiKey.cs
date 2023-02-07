@@ -9,12 +9,13 @@ namespace OpenAI_ChatGPT_Integration
     {
         private readonly HttpClient _client;
         private readonly string _authenticationToken;
-        private readonly string _apiEndpoint = "https://beta.openai.com/docs/api-reference/authentication/create-api-key";
+        private readonly string _apiEndpoint; // = "https://beta.openai.com/docs/api-reference/authentication/create-api-key";
 
-        public CreateOpenAIApiKey(string authenticationToken)
+        public CreateOpenAIApiKey(string authenticationToken, string apiEndpoint )
         {
             _client = new HttpClient();
             _authenticationToken = authenticationToken;
+            _apiEndpoint =  apiEndpoint;
         }
 
         public string CreateAPIKey(string name, string scope, DateTime expiresAt)
